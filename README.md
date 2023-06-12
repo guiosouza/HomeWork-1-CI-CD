@@ -9,5 +9,8 @@ Observação: o `pipeline` irá rodar nas versões do Node.js: 12.x, 14.x e 16.x
 
 Os passos incluem a verificação do repositório (actions/checkout), a configuração do ambiente `Node.js` (actions/setup-node), a exibição da lista de arquivos no diretório (ls -la) e a execução dos comandos necessários para instalar as dependências do projeto (yarn install) e executar os testes (yarn test) no diretório do frontend.
 
+## Passos a rodarem:
+
+![image](https://github.com/guiosouza/HomeWork-1-CI-CD/assets/78989152/54133298-9737-486b-88ab-4b5c683bc13d)
 
 
